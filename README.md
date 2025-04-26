@@ -1,16 +1,38 @@
-# click_mart_desing
+## Flutter - E-commerced Desing App
 
-A new Flutter project.
+## Information :
+  E-commerce app design creation and responsive features coded with flutter
+  Halil ibrahim  kaya - Desing Codings
+  
+## Packages Used :
+- Google fonts
+- Animate_do
+ ## Application Design <br>
+ <div align="left">
+  <img src="https://github.com/halilkaya19/Flutter-E-commerce-Desing-App/blob/master/assets/presim/home_page.png" width="50%"><br>
+  <img src="https://github.com/halilkaya19/Flutter-E-commerce-Desing-App/blob/master/assets/presim/detail_page.png" width="50%"><br>
+  <img src="https://github.com/halilkaya19/Flutter-E-commerce-Desing-App/blob/master/assets/presim/category_page.png" width="50%"><br>
+ </div>   
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## License
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The Flutter framework is open-sourced software licensed under the..
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
